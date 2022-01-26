@@ -1,0 +1,8 @@
+El bucle for `for`:
+        se utiliza para repetir el codigo que ingresamos las veces que queremos, esto para realizar operaciones o procesos repetitivos y sacar datos puntuales.
+Operadores matematicos `&&`, `||`, `!`:
+    `&&`: se puede leer (y) se utiliza cuando requerimos que varias condiciones se cumplan para ejecutar nuestro codigo. ejemplo: if (5==5 && 9==9)... 'si,  5 es igual a 5 y 9 es igual a 9... se ejecutara el codigo siguiente. 
+    `||` : se utiliza cuando requerimos que una de las condiciones de nuestra liena de codigo se cumpla, quiere decir que con solo una condicion correcta, el codigo se ejecutara. ejemplo: 
+    if (1==2 || 3==5)... 'si 1 es igual a 2 ò 3 es igual a 5 entonces... se ejecutara nuestro codigo.
+    `!`: se utiliza para negar o decir que es diferente una comparacion ejemplo:
+    2!=4 (dos no es igual a 4), esto lo que hace es negar la liena que escribimos.

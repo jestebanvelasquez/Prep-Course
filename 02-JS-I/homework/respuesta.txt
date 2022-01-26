@@ -1,0 +1,15 @@
+ * Variables: 
+        una variable es como una carpeta la cual guarda la informacion que podras llegar a utilizar
+        luego, puedes almacenar cualquier tipo de dato y le poedes colocar el nombre que desees.
+ * Strings: 
+        son el conjunto de letras que conforman una palabra, se diferencian de otros tipos de datos, por 
+        estar dentro de comillas.
+ * Funciones (argumentos, `return`): 
+        una funcion, son las reglas que puedes darle a las variables, e indicar como deben organizarse e interactuar entre ellas
+        las reglas, donde puedes indicar medicante las reglas que deben retornnar y guardar nuevamente en las variables, o crear nuevas, o simplemente
+        dar el resultado de una operacion de variables.
+ * Declaraciones `if`: 
+ son las condiciones que deben cumplir las variables para relacionarse, y que puedan obtener un resultado
+ * Valores booleanos (`true`, `false`): son un tipo de resultado de la interaccion de las variables, que puede resultar en este caso
+ como algo verdadero o falso, y ayudan a que las condiciones se cumplan o no, y con esto saber si la interaccion que 
+ queremos que tengas se de o no.

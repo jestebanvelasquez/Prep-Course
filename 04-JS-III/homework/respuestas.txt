@@ -1,0 +1,2 @@
+Arrays : son grupos un grupo de elementos, que podemos llamar conjuntos, los cuales pueden contener cualquier tipo deelemento, como nombre de paises, letras, nueros etc.. 
+se pueden contar la cantidad de elemnetos que contienen, modificar esa cantidad, agregar y eliminar con ciertos parametros.
