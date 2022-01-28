@@ -1,0 +1,9 @@
+* `prototype`: 
+         se puede  decir que un prototype, es un plano base, que se usara para crear algo, ejemplo vas a contruir un conjunto de casas,
+         y lo que necesitaras siempre para cada una, seran las vigas de soporte, para no estar siempre creando una viga especifica para 
+         cada casa, creas el modelo de una viga que utilizaras en todas las casas y asi ahorras tiempo,
+
+
+* _Constructors_ (de Clases)
+                un constructor se puede decir que son las cualidades que tendra esa casa, como, piso, ventanas, puertas, donde luego les puedes dar
+                las cualidades necesarias, como el color, el material etc..

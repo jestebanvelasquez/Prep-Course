@@ -1,0 +1,5 @@
+Funciones Callback
+     se puede decir que son las funciones que tienes listas para cumplir una tarea determinada en cierto tiempo
+     un ejemplo podria ser, cuando un dia x rellenas las cubetas de hielo con agua y las congelas, luego otro dia vas a 
+     preparar un jugo y quieres que este muy frio lo mas pronto pocible, ps es ahi donde utilizas los hielos que preparaste unos dias 
+     atras y lograran cumplir con el objetivo de enfriar tu jugo 
